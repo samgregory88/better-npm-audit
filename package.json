@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "commander": "^2.19.0",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "lodash.get": "^4.4.2"
   },
   "engines": {
