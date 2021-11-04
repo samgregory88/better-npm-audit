@@ -301,7 +301,7 @@ node_modules/yargs-unparser/node_modules/yargs-parser
 18 vulnerabilities (14 low, 2 moderate, 2 high)
 ```
 
-## Special thanks
+## Special thank you
 
 Thank you [@IPWright83](https://github.com/IPWright83) for his solutions in improving the vulnerability validation for us to have the minimum-audit-level and production-mode flags.
 
